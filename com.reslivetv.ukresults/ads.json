@@ -284,5 +284,257 @@
     "PlayInExternalPlayer": false
   },
   "CustomInterAds": [],
-  "FootballFixtures": []
+  "FootballFixtures": [
+    {
+      "CountryFlag": "https://flagcdn.com/w320/gb.png",
+      "CountryName": "England",
+      "Competitions": [
+        {
+          "Fixtures": [
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Manchester United",
+              "HomeTeam": "Chelsea",
+              "MatchTime": "2026-10-31 12:30 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Leeds United",
+              "HomeTeam": "AFC Bournemouth",
+              "MatchTime": "2026-10-31 15:00 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Nottingham Forest",
+              "HomeTeam": "Brentford",
+              "MatchTime": "2026-10-31 15:00 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Sunderland",
+              "HomeTeam": "Coventry City",
+              "MatchTime": "2026-10-31 15:00 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Ipswich Town",
+              "HomeTeam": "Hull City",
+              "MatchTime": "2026-10-31 15:00 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Brighton & Hove Albion",
+              "HomeTeam": "Manchester City",
+              "MatchTime": "2026-10-31 15:00 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Crystal Palace",
+              "HomeTeam": "Tottenham Hotspur",
+              "MatchTime": "2026-10-31 17:30 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Fulham",
+              "HomeTeam": "Aston Villa",
+              "MatchTime": "2026-10-31 20:00 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Arsenal",
+              "HomeTeam": "Liverpool",
+              "MatchTime": "2026-11-01 16:30 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Everton",
+              "HomeTeam": "Newcastle United",
+              "MatchTime": "2026-11-02 20:00 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Coventry City",
+              "HomeTeam": "Everton",
+              "MatchTime": "2026-11-06 20:00 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Tottenham Hotspur",
+              "HomeTeam": "Leeds United",
+              "MatchTime": "2026-11-07 12:30 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Hull City",
+              "HomeTeam": "Arsenal",
+              "MatchTime": "2026-11-07 15:00 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Newcastle United",
+              "HomeTeam": "Fulham",
+              "MatchTime": "2026-11-07 15:00 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Manchester City",
+              "HomeTeam": "Nottingham Forest",
+              "MatchTime": "2026-11-07 17:30 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Brentford",
+              "HomeTeam": "Brighton & Hove Albion",
+              "MatchTime": "2026-11-08 14:00 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Liverpool",
+              "HomeTeam": "Crystal Palace",
+              "MatchTime": "2026-11-08 14:00 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "AFC Bournemouth",
+              "HomeTeam": "Ipswich Town",
+              "MatchTime": "2026-11-08 14:00 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Chelsea",
+              "HomeTeam": "Sunderland",
+              "MatchTime": "2026-11-08 14:00 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Aston Villa",
+              "HomeTeam": "Manchester United",
+              "MatchTime": "2026-11-08 16:30 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Fulham",
+              "HomeTeam": "Manchester City",
+              "MatchTime": "2026-11-21 12:30 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Nottingham Forest",
+              "HomeTeam": "AFC Bournemouth",
+              "MatchTime": "2026-11-21 15:00 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Sunderland",
+              "HomeTeam": "Aston Villa",
+              "MatchTime": "2026-11-21 15:00 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Leeds United",
+              "HomeTeam": "Chelsea",
+              "MatchTime": "2026-11-21 15:00 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Crystal Palace",
+              "HomeTeam": "Coventry City",
+              "MatchTime": "2026-11-21 15:00 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Ipswich Town",
+              "HomeTeam": "Tottenham Hotspur",
+              "MatchTime": "2026-11-21 15:00 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Arsenal",
+              "HomeTeam": "Newcastle United",
+              "MatchTime": "2026-11-21 17:30 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Brighton & Hove Albion",
+              "HomeTeam": "Hull City",
+              "MatchTime": "2026-11-22 14:00 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Manchester United",
+              "HomeTeam": "Liverpool",
+              "MatchTime": "2026-11-22 16:30 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Everton",
+              "HomeTeam": "Brentford",
+              "MatchTime": "2026-11-23 20:00 GMT",
+              "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+              "HomeTeamLogo": "https://flagcdn.com/w320/gb.png"
+            }
+          ],
+          "CompetitionName": "Premier League"
+        }
+      ]
+    }
+  ]
 }
